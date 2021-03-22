@@ -1,4 +1,4 @@
-# Data Manipulation and Data Visualization exercises
+# Data Manipulation and Data Visualization Exercises
 
 The tools I used : Jupyter, Matplotlib
 
