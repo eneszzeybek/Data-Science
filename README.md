@@ -1,2 +1,1 @@
-# Data-Science
-DS Exercises
+Data Manipulation and Data Visualization exercises
